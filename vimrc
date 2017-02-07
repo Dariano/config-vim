@@ -1,0 +1,12 @@
+set expandtab
+set smarttab
+set shiftwidth=2
+set tabstop=1
+set number
+set showcmd
+set cursorline
+set hlsearch
+set ignorecase
+set autoindent
+syntax on
+set listchars+=space:.
